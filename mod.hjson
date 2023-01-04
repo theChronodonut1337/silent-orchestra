@@ -1,9 +1,9 @@
 {
-"name": "silent-orchestra"
-"displayName": "The Silent Orchestra (a music and sound pack)"
-"author": [gold]Aurora
-"description": "From break and ruin, the most beautiful performance begins. A collection of music and sound replacements for Mindustry originating from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-"version": "T-01-31"
-"minGameVersion": "140.4"
+"name": "silent-orchestra",
+"displayName": "The Silent Orchestra (a music and sound pack)",
+"author": "[gold]Aurora",
+"description": "From break and ruin, the most beautiful performance begins. A collection of music and sound replacements for Mindustry originating from FFXIV, Library of Ruina, Arknights, Terraria, and more.",
+"version": "T-01-31",
+"minGameVersion": "140.4",
 "hidden": true
 }
