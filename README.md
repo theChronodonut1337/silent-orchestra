@@ -25,8 +25,8 @@ boss1: bldkgt https://youtu.be/IuC4oAzJqWw
 <br>
 boss2: revenge_twofold https://youtu.be/hgPvUsKkflM
 <br>
-menu: lor_lobby https://youtu.be/yyDMMFxImrA
+menu: doubledragons https://youtu.be/gJKfGqFJPP8
 <br>
 editor: shop https://youtu.be/P5jnk-AEsK8
 <br>
-launch: hw_title https://youtu.be/s6cLASu9ZHA
+launch: stormblood https://youtu.be/9ZGb7ZMC_ig
