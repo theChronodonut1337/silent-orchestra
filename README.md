@@ -27,6 +27,6 @@ boss2: revenge_twofold https://youtu.be/hgPvUsKkflM
 <br>
 menu: doubledragons https://youtu.be/gJKfGqFJPP8
 <br>
-editor: shop https://youtu.be/P5jnk-AEsK8
+editor: flameshadow https://youtu.be/zZ9aggH9NpQ
 <br>
 launch: stormblood https://youtu.be/9ZGb7ZMC_ig
