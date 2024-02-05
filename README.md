@@ -1,6 +1,6 @@
 # Sounds like Argus: The Silent Orchestra
-<br>
-![soundsLikeArgusLogo](https://github.com/theChronodonut1337/silent-orchestra/assets/92568282/c9dc6fc0-3262-4861-8ff6-c19e3f5b9a60)
+![Sounds Like Argus](https://cdn.discordapp.com/attachments/653293028869537843/1203924636102959114/soundsLikeArgusLogo.png?ex=65d2dd31&is=65c06831&hm=d5cd94913c3b5b81404bfe8decda5f9e489ed2de82bc85b302f61bc39aad9f0f&)
+
 <br>
 Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more.
 <br>
