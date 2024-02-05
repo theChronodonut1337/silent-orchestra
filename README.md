@@ -21,7 +21,7 @@ game8: science https://youtu.be/m7IUFaP7Jcs
 <br>
 game9: smallstep https://youtu.be/0swHzZjRt9Y
 <br>
-boss1: finality https://youtu.be/67YwazDYeag
+boss1: lughlamhfada https://youtu.be/V-M5J47WSHo
 <br>
 boss2: bat_empgrd https://youtu.be/tHFa1VcdBow
 <br>
