@@ -1,5 +1,8 @@
-# The Silent Orchestra
-From break and ruin, the most beautiful performance begins. A collection of music and sound replacements for Mindustry originating from FFXIV, Library of Ruina, Arknights, Terraria, and more.
+# Sounds like Argus: The Silent Orchestra
+<br>
+![soundsLikeArgusLogo](https://github.com/theChronodonut1337/silent-orchestra/assets/92568282/c9dc6fc0-3262-4861-8ff6-c19e3f5b9a60)
+<br>
+Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more.
 <br>
 Please note that these music and sounds are not mine, credit goes to whoever made them.
 # Music list
