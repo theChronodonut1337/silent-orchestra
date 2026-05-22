@@ -8,30 +8,32 @@ Please note that these music and sounds are not mine, credit goes to whoever mad
 <br>
 # Music list
 <br>
-game1: source https://youtu.be/Pxv8P2lMQgI
+game1: ["Solid"](https://www.youtube.com/watch?v=Kcw8xNxkZtM)
 <br>
-game2: can_save https://youtu.be/hkZm8lFSQTo
+game2: ["avg dreamrite"](https://youtu.be/mcLYI66vWXs)
 <br>
-game3: stonesteel https://youtu.be/sc2iwgW98sk
+game3: ["Winds of Aelio - Day - Scenery"](https://youtu.be/-qPpSKMDWeE)
 <br>
-game4: plot https://youtu.be/pdXHB_VrMMQ
+game4: ["sys act17mini"](https://youtu.be/zuAd5O4NKEo)
 <br>
-game5: landlords https://youtu.be/cB9AQJgdX40
+game5: ["Order Yet Undeciphered"](https://youtu.be/dYOSYDBJyZg)
 <br>
-game6: sys_w https://youtu.be/ik5xq1bUbHI
+game6: ["Landlords"](https://youtu.be/cB9AQJgdX40)
 <br>
-game7: bozja_field https://youtu.be/YpmLEHNPfYM
+game7: ["Flash in the Dark"](https://youtu.be/EpvcHcJMB1c)
 <br>
-game8: science https://youtu.be/m7IUFaP7Jcs
+game8: ["Sky Unsundered"](https://youtu.be/aL1WGXQduho)
 <br>
-game9: smallstep https://youtu.be/0swHzZjRt9Y
+game9: ["Neath Dark Waters (Scions & Sinners)"](https://youtu.be/b0aKPzbBGUc)
 <br>
-boss1: lughlamhfada https://youtu.be/V-M5J47WSHo
+fine: ["Welcome to Our Town! (Endwalker)"](https://youtu.be/2USlbyHsxXM)
 <br>
-boss2: bat_empgrd https://youtu.be/tHFa1VcdBow
+boss1: ["Tyrant Halvaldi Vera"](https://youtu.be/84FstE2GfVc)
+<br>
+boss2: ["In Fulgur and Fire"](https://youtu.be/s4EBYJrHC-0)
 <br>
 menu: lobby https://youtu.be/AhRv3Ho59Vk
 <br>
-editor: mephisto https://youtu.be/I1L-tD-_8Hw
+editor: ["Call of Iberia"](https://youtu.be/vUeJQ0i0Yjo)
 <br>
 launch: prebattle https://youtu.be/Ai0Ra_NqEQ0
